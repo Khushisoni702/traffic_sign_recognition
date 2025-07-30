@@ -60,6 +60,12 @@ https://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 
 ---
 
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
 ## ⭐ Star the Repo
 
 If you found this helpful, consider giving it a ⭐ on GitHub!
