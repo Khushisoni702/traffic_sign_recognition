@@ -1,4 +1,4 @@
-#🚦Traffic Sign Recognition using Deep Learning
+# 🚦Traffic Sign Recognition using Deep Learning
 
 This project is a Deep Learning-based Traffic Sign Recognition system built using TensorFlow, Keras, OpenCV and Jupyter Notebook. It classifies traffic signs from images into their respective categories using a Convolutional Neural Network (CNN) trained on a traffic sign dataset.
 
