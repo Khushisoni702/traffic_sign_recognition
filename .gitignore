@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset and large numpy files (remove these locally if not needed)
+dataset/
+*.npy
+
+# VSCode settings
+.vscode/
+
+# Mac OS and other system files
+.DS_Store
+Thumbs.db
+
+# Log and temporary files
+*.log
+*.tmp
+
+# Ignore local runtime files
+*.swp
+*.bak
